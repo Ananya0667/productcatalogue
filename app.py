@@ -7,7 +7,7 @@ app = Flask(__name__)
 def get_db_connection():
     conn = pyodbc.connect(
         'DRIVER={ODBC Driver 17 for SQL Server};'
-        'SERVER=ell887db.database.windows.net;'
+        'SERVER=ell887db1.database.windows.net;'
         'DATABASE=productdb;'
         'UID=echggejnjp;'
         'PWD=ug3Se9HLRYiXOO$I'
