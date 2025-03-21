@@ -9,8 +9,8 @@ def get_db_connection():
         'DRIVER={ODBC Driver 17 for SQL Server};'
         'SERVER=ell887db1.database.windows.net;'
         'DATABASE=productdb;'
-        'UID=echggejnjp;'
-        'PWD=ug3Se9HLRYiXOO$I'
+        'UID=nsmhetqpjh;'
+        'PWD=2irO$6xWhD907tcp'
     )
     return conn
 
